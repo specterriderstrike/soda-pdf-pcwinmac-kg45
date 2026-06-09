@@ -1,4 +1,4 @@
-# 
+# Official Soda PDF workflow for Mac OS | Automatic Soda PDF workflow for PC Windows. Featuring receipt scanning and custom branding — optimized for maximum performance on every platform.
 
 
 
